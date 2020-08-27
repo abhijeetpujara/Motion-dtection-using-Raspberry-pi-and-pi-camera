@@ -23,6 +23,8 @@ The kit is an amazing collection of bits and pieces that allow you to create and
 ### Receiving Emails
 When receiving an email for the first time, you might get the following notification from Google:
 
+![google](https://user-images.githubusercontent.com/30935981/91423594-5f3f7280-e876-11ea-8089-343c1f679115.jpg)
+
 
  By default, Google blocks apps from using SMTP without permissions. We can solve this by clicking on the allow "less secure apps" link and toggle the feature on. The next object detected will send an email.
  
