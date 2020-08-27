@@ -1,6 +1,5 @@
-# Motion detection with Raspberry pi
-#                                                                      Motion detection
-# Introduction
+# Motion detection
+## Introduction
 
 IoT Raspberry Pi motion detection running OpenCV for object detection. The camera will send an email with an image of any objects it detects.
 
